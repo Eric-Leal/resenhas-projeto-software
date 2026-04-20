@@ -7,3 +7,4 @@
 - [**Resenha 4 - Criteria for Modularization**](Resenha%204%20-%20Criteria%20for%20Modularization/Resenha%20-%20Criteria%20for%20Modularization%20-%20Eric.pdf) - Data: 23/03/2026
 - [**Resenha 5 - Facade**](Resenha%205%20-%20Facade/Resenha%20-%20Facade%20-%20Eric.pdf) - Data: 30/03/2026
 - [**Resenha 6 - MCP**](Resenha%206%20-%20MCP/Resenha%20-%20MCP%20-%20Eric.pdf) - Data: 17/04/2026 
+- [**Resenha 7 - Software Architecture A Roadmap**](Resenha%207%20-%20Software%20Architecture%20A%20Roadmap/Resenha%20-%20Software%20Architecture%20A%20Roadmap%20-%20Eric.pdf) - Data: 20/04/2026
