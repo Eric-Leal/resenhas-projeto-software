@@ -8,3 +8,4 @@
 - [**Resenha 5 - Facade**](Resenha%205%20-%20Facade/Resenha%20-%20Facade%20-%20Eric.pdf) - Data: 30/03/2026
 - [**Resenha 6 - MCP**](Resenha%206%20-%20MCP/Resenha%20-%20MCP%20-%20Eric.pdf) - Data: 17/04/2026 
 - [**Resenha 7 - Software Architecture A Roadmap**](Resenha%207%20-%20Software%20Architecture%20A%20Roadmap/Resenha%20-%20Software%20Architecture%20A%20Roadmap%20-%20Eric.pdf) - Data: 20/04/2026
+- [**Resenha 8 - Hexagonal Architecture**](Resenha%208%20-%20Hexagonal%20Architecture/Resenha%20-%20Hexagonal%20Architecture%20-%20Eric.pdf) - Data: 27/04/2026
